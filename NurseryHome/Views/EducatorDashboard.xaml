@@ -1,0 +1,89 @@
+﻿<Window x:Class="NurseryHome.Views.EducatorDashboard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:NurseryHome.ViewModels"
+        Title="Educator Dashboard" Height="500" Width="700">
+
+    <Grid Margin="10">
+        <TabControl>
+            <!--  Grupele Educatorului -->
+            <TabItem Header="Grupele mele">
+                <DataGrid ItemsSource="{Binding EducatorGroups}" AutoGenerateColumns="True" Margin="10" />
+            </TabItem>
+
+            <!-- Programe Educaționale -->
+            <TabItem Header="Programe">
+                <Grid Margin="10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                        <TextBox Width="150" Margin="5" Text="{Binding ProgramActivityName, UpdateSourceTrigger=PropertyChanged}" ToolTip="Activitate"/>
+                        <DatePicker Width="150" Margin="5" SelectedDate="{Binding ProgramDate}" ToolTip="Dată"/>
+                        <TextBox Width="50" Margin="5" Text="{Binding SelectedGroupIdForProgram}" ToolTip="GroupId" />
+                        <Button Content="Adaugă" Width="80" Command="{Binding AddProgramCommand}" />
+                        <Button Content="Editează" Width="80" Command="{Binding EditProgramCommand}" />
+                        <Button Content="Șterge" Width="80" Command="{Binding DeleteProgramCommand}" />
+                    </StackPanel>
+
+                    <DataGrid Grid.Row="1"
+                      ItemsSource="{Binding Programs}"
+                      SelectedItem="{Binding SelectedProgram, Mode=TwoWay}"
+                      AutoGenerateColumns="True"/>
+                </Grid>
+            </TabItem>
+
+            <!-- Anunțuri -->
+            <TabItem Header="Anunțuri">
+                <Grid Margin="10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                        <TextBox Width="150" Margin="5" Text="{Binding AnnouncementTitle}" ToolTip="Titlu"/>
+                        <TextBox Width="200" Margin="5" Text="{Binding AnnouncementDescription}" ToolTip="Descriere"/>
+                        <Button Content="Adaugă" Width="80" Command="{Binding AddAnnouncementCommand}" />
+                        <Button Content="Editează" Width="80" Command="{Binding EditAnnouncementCommand}" />
+                        <Button Content="Șterge" Width="80" Command="{Binding DeleteAnnouncementCommand}" />
+                    </StackPanel>
+
+                    <DataGrid Grid.Row="1"
+                      ItemsSource="{Binding Announcements}"
+                      SelectedItem="{Binding SelectedAnnouncement}"
+                      AutoGenerateColumns="True"/>
+                </Grid>
+            </TabItem>
+
+            <!-- Materiale -->
+            <TabItem Header="Materiale">
+                <Grid Margin="10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                        <TextBox Width="150" Margin="5" Text="{Binding MaterialFileName}" ToolTip="Nume fișier"/>
+                        <TextBox Width="250" Margin="5" Text="{Binding MaterialFilePath}" ToolTip="Cale fișier"/>
+                        <TextBox Width="50" Margin="5" Text="{Binding SelectedGroupIdForMaterial}" ToolTip="GroupId" />
+                        <Button Content="Adaugă" Width="80" Command="{Binding AddMaterialCommand}" />
+                        <Button Content="Editează" Width="80" Command="{Binding EditMaterialCommand}" />
+                        <Button Content="Șterge" Width="80" Command="{Binding DeleteMaterialCommand}" />
+                    </StackPanel>
+
+                    <DataGrid Grid.Row="1"
+                      ItemsSource="{Binding Materials}"
+                      SelectedItem="{Binding SelectedMaterial}"
+                      AutoGenerateColumns="True"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>
+
+

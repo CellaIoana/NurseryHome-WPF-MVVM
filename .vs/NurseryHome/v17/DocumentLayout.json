@@ -1,0 +1,484 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\models\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\models\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\views\\educatordashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\views\\educatordashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\views\\educatordashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\views\\educatordashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\viewmodels\\educatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\viewmodels\\educatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\models\\parenteducator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\models\\parenteducator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\models\\absence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\models\\absence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\views\\parentdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\views\\parentdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\views\\parentdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\views\\parentdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\viewmodels\\parentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\viewmodels\\parentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\models\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\models\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\views\\admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\views\\admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\models\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\models\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\views\\admindashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\views\\admindashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\nurseryhome.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\nurseryhome.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|c:\\users\\catalin\\source\\repos\\nurseryhome\\nurseryhome\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197BA9F4-8CC1-43B5-831F-1209596A5325}|NurseryHome\\NurseryHome.csproj|solutionrelative:nurseryhome\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "NurseryHome\\ViewModels\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "NurseryHome\\ViewModels\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:02:31.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EducatorDashboard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Views\\EducatorDashboard.xaml.cs",
+              "RelativeDocumentMoniker": "NurseryHome\\Views\\EducatorDashboard.xaml.cs",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Views\\EducatorDashboard.xaml.cs",
+              "RelativeToolTip": "NurseryHome\\Views\\EducatorDashboard.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:02:07.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EducatorDashboard.xaml",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Views\\EducatorDashboard.xaml",
+              "RelativeDocumentMoniker": "NurseryHome\\Views\\EducatorDashboard.xaml",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Views\\EducatorDashboard.xaml",
+              "RelativeToolTip": "NurseryHome\\Views\\EducatorDashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T11:29:29.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Models\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "NurseryHome\\Models\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Models\\DatabaseManager.cs",
+              "RelativeToolTip": "NurseryHome\\Models\\DatabaseManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:24:54.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\ViewModels\\AdminViewModel.cs",
+              "RelativeDocumentMoniker": "NurseryHome\\ViewModels\\AdminViewModel.cs",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\ViewModels\\AdminViewModel.cs",
+              "RelativeToolTip": "NurseryHome\\ViewModels\\AdminViewModel.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:00:44.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "NurseryHome\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "NurseryHome\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAcwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T10:58:54.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EducatorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\ViewModels\\EducatorViewModel.cs",
+              "RelativeDocumentMoniker": "NurseryHome\\ViewModels\\EducatorViewModel.cs",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\ViewModels\\EducatorViewModel.cs",
+              "RelativeToolTip": "NurseryHome\\ViewModels\\EducatorViewModel.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAUwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T14:45:39.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParentEducator.cs",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Models\\ParentEducator.cs",
+              "RelativeDocumentMoniker": "NurseryHome\\Models\\ParentEducator.cs",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Models\\ParentEducator.cs",
+              "RelativeToolTip": "NurseryHome\\Models\\ParentEducator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:01:48.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Models\\User.cs",
+              "RelativeDocumentMoniker": "NurseryHome\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Models\\User.cs",
+              "RelativeToolTip": "NurseryHome\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T10:56:30.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Absence.cs",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Models\\Absence.cs",
+              "RelativeDocumentMoniker": "NurseryHome\\Models\\Absence.cs",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Models\\Absence.cs",
+              "RelativeToolTip": "NurseryHome\\Models\\Absence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:40:50.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\App.xaml.cs",
+              "RelativeDocumentMoniker": "NurseryHome\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\App.xaml.cs",
+              "RelativeToolTip": "NurseryHome\\App.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:14:47.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\App.xaml",
+              "RelativeDocumentMoniker": "NurseryHome\\App.xaml",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\App.xaml",
+              "RelativeToolTip": "NurseryHome\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T10:14:32.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Models\\Material.cs",
+              "RelativeDocumentMoniker": "NurseryHome\\Models\\Material.cs",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Models\\Material.cs",
+              "RelativeToolTip": "NurseryHome\\Models\\Material.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T14:42:30.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Models\\Program.cs",
+              "RelativeDocumentMoniker": "NurseryHome\\Models\\Program.cs",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Models\\Program.cs",
+              "RelativeToolTip": "NurseryHome\\Models\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T14:41:34.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParentDashboard.xaml",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Views\\ParentDashboard.xaml",
+              "RelativeDocumentMoniker": "NurseryHome\\Views\\ParentDashboard.xaml",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Views\\ParentDashboard.xaml",
+              "RelativeToolTip": "NurseryHome\\Views\\ParentDashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T11:30:19.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ParentDashboard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Views\\ParentDashboard.xaml.cs",
+              "RelativeDocumentMoniker": "NurseryHome\\Views\\ParentDashboard.xaml.cs",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Views\\ParentDashboard.xaml.cs",
+              "RelativeToolTip": "NurseryHome\\Views\\ParentDashboard.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:54:27.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ParentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\ViewModels\\ParentViewModel.cs",
+              "RelativeDocumentMoniker": "NurseryHome\\ViewModels\\ParentViewModel.cs",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\ViewModels\\ParentViewModel.cs",
+              "RelativeToolTip": "NurseryHome\\ViewModels\\ParentViewModel.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAYwAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:48:25.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Announcement.cs",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Models\\Announcement.cs",
+              "RelativeDocumentMoniker": "NurseryHome\\Models\\Announcement.cs",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Models\\Announcement.cs",
+              "RelativeToolTip": "NurseryHome\\Models\\Announcement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:41:27.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "NurseryHome\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Models\\Payment.cs",
+              "RelativeToolTip": "NurseryHome\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:40:02.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "NurseryHome\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Models\\Group.cs",
+              "RelativeToolTip": "NurseryHome\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:38:49.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminDashboard.xaml",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Views\\AdminDashboard.xaml",
+              "RelativeDocumentMoniker": "NurseryHome\\Views\\AdminDashboard.xaml",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Views\\AdminDashboard.xaml",
+              "RelativeToolTip": "NurseryHome\\Views\\AdminDashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T11:28:36.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Child.cs",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Models\\Child.cs",
+              "RelativeDocumentMoniker": "NurseryHome\\Models\\Child.cs",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Models\\Child.cs",
+              "RelativeToolTip": "NurseryHome\\Models\\Child.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:59:29.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\App.config",
+              "RelativeDocumentMoniker": "NurseryHome\\App.config",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\App.config",
+              "RelativeToolTip": "NurseryHome\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-22T09:50:02.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "NurseryHome\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\MainWindow.xaml",
+              "RelativeToolTip": "NurseryHome\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T09:46:00.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "NurseryHome\\Views\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "NurseryHome\\Views\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:13:32.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "NurseryHome\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Views\\LoginView.xaml",
+              "RelativeToolTip": "NurseryHome\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T11:10:36.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminDashboard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Views\\AdminDashboard.xaml.cs",
+              "RelativeDocumentMoniker": "NurseryHome\\Views\\AdminDashboard.xaml.cs",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\Views\\AdminDashboard.xaml.cs",
+              "RelativeToolTip": "NurseryHome\\Views\\AdminDashboard.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:42:14.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NurseryHome.csproj",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\NurseryHome.csproj",
+              "RelativeDocumentMoniker": "NurseryHome\\NurseryHome.csproj",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\NurseryHome.csproj",
+              "RelativeToolTip": "NurseryHome\\NurseryHome.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-21T10:50:15.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NurseryHome\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Catalin\\source\\repos\\NurseryHome\\NurseryHome\\MainWindow.xaml.cs",
+              "RelativeToolTip": "NurseryHome\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:45:46.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
