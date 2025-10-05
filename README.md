@@ -41,8 +41,8 @@ NurseryHome-WPF-MVVM/
  └─ docs/               # screenshots, diagrams
 ```
 📸 Screenshots
-![Admin Dashboard](docs/admin_dashboard.png)
-![Educator Dashboard](docs/educator_dashboard.png)
+![Admin Dashboard](docs/admin_dashboard.PNG)
+![Educator Dashboard](docs/educator_dashboard.PNG)
 🛠️ Tech Stack
 •	Language: C#
 •	Framework: WPF MVVM
