@@ -1,4 +1,7 @@
 NurseryHome — WPF MVVM + SQL Server
+
+![Build](https://github.com/CellaIoana/NurseryHome-WPF-MVVM/actions/workflows/dotnet.yml/badge.svg)
+
 A complete WPF MVVM application for managing a nursery with role-based dashboards: Admin, Parent, Educator.
 Implements full CRUD, authentication, and SQL Server persistence in a clean MVVM architecture.
 ✨ Features
